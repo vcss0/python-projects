@@ -23,7 +23,5 @@ def converte(moeda):
     return f'{moeda:.2f}'
 
 
-print(verifica_cotacao('Dolar - Real'))
-
 
 
